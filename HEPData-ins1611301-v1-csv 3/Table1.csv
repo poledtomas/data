@@ -1,0 +1,31 @@
+#: table_doi: 10.17182/hepdata.78549.v1/t1
+#: name: Table 1
+#: description: Deuteron $p_{\mathrm T}$ spectra for $p_{\mathrm T} > $ 4.4 GeV/$c$. Low $p_{\mathrm T}$ points can be found here 'http://hepdata.cedar.ac.uk/view/ins1380491'
+#: data_file: hepdataFig3up.yaml
+#: keyword reactions: PB PB --> DEUTERON X
+#: keyword observables: pT spectra OF DEUTERON
+#: keyword cmenergies: 2760.0
+#: SQRT(S)/NUCLEON [GEV],,,2760.0
+#: PT [GEV],,,4.4 TO 8.0
+#: CENTRALITY,,,0 TO 10%
+$p_{\rm{T}} ({\rm{GeV}/}c)$,$p_{\rm{T}} ({\rm{GeV}/}c)$ LOW,$p_{\rm{T}} ({\rm{GeV}/}c)$ HIGH,$1/N_{ev} d^2N/(dy dp_{\rm T}) (\mathrm{GeV}/c)^{-1}$,stat +,stat -,sys +,sys -
+4.7,4.4,5.0,0.003131,8.89e-05,-8.89e-05,0.0003585,-0.0003585
+5.5,5.0,6.0,0.0009094,2.558e-05,-2.558e-05,8.089e-05,-8.089e-05
+7.0,6.0,8.0,7.839e-05,2.13e-05,-2.13e-05,1.544e-05,-1.544e-05
+
+#: SQRT(S)/NUCLEON [GEV],,,2760.0
+#: PT [GEV],,,4.4 TO 8.0
+#: CENTRALITY,,,10 TO 20%
+$p_{\rm{T}} ({\rm{GeV}/}c)$,$p_{\rm{T}} ({\rm{GeV}/}c)$ LOW,$p_{\rm{T}} ({\rm{GeV}/}c)$ HIGH,$1/N_{ev} d^2N/(dy dp_{\rm T}) (\mathrm{GeV}/c)^{-1}$,stat +,stat -,sys +,sys -
+4.7,4.4,5.0,0.001882,0.0001347,-0.0001347,0.00021553,-0.00021553
+5.5,5.0,6.0,0.0007538,0.0001894,-0.0001894,8.632e-05,-8.632e-05
+7.0,6.0,8.0,-,-,--,-,--
+
+#: SQRT(S)/NUCLEON [GEV],,,2760.0
+#: PT [GEV],,,4.4 TO 8.0
+#: CENTRALITY,,,20 TO 40%
+$p_{\rm{T}} ({\rm{GeV}/}c)$,$p_{\rm{T}} ({\rm{GeV}/}c)$ LOW,$p_{\rm{T}} ({\rm{GeV}/}c)$ HIGH,$1/N_{ev} d^2N/(dy dp_{\rm T}) (\mathrm{GeV}/c)^{-1}$,stat +,stat -,sys +,sys -
+4.7,4.4,5.0,0.0008202,5.185e-05,-5.185e-05,9.3917e-05,-9.3917e-05
+5.5,5.0,6.0,0.0003539,0.0001374,-0.0001374,4.0526e-05,-4.0526e-05
+7.0,6.0,8.0,-,-,--,-,--
+

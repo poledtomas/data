@@ -1,0 +1,31 @@
+#: table_doi: 10.17182/hepdata.78549.v1/t2
+#: name: Table 2
+#: description: $\overline{\mathrm d}/ d $ vs $p_{\mathrm T}$ for $p_{\mathrm T} > $ 4.4 GeV/$c$. Low $p_{\mathrm T}$ points can be found here  'http://hepdata.cedar.ac.uk/view/ins1380491'
+#: data_file: hepdataFig3down.yaml
+#: keyword reactions: PB PB --> DEUTERON X
+#: keyword observables: ANTIDEUTERON/DEUTERON
+#: keyword cmenergies: 2760.0
+#: SQRT(S)/NUCLEON [GEV],,,2760.0
+#: PT [GEV],,,4.4 TO 8.0
+#: CENTRALITY,,,0 TO 10%
+$p_{\rm T}~({\rm GeV/}c)$,$p_{\rm T}~({\rm GeV/}c)$ LOW,$p_{\rm T}~({\rm GeV/}c)$ HIGH,$\overline{\mathrm d}$ / d,stat +,stat -,sys +,sys -
+4.7,4.4,5.0,0.9819,0.04116,-0.04116,0.1649,-0.1649
+5.5,5.0,6.0,0.8933,0.04238,-0.04238,0.1193,-0.1193
+7.0,6.0,8.0,0.9006,0.37481,-0.37481,0.2694,-0.2694
+
+#: SQRT(S)/NUCLEON [GEV],,,2760.0
+#: PT [GEV],,,4.4 TO 8.0
+#: CENTRALITY,,,10 TO 20%
+$p_{\rm T}~({\rm GeV/}c)$,$p_{\rm T}~({\rm GeV/}c)$ LOW,$p_{\rm T}~({\rm GeV/}c)$ HIGH,$\overline{\mathrm d}$ / d,stat +,stat -,sys +,sys -
+4.7,4.4,5.0,1.057,0.1126,-0.1126,0.1776,-0.1776
+5.5,5.0,6.0,0.848,0.4764,-0.4764,0.1424,-0.1424
+7.0,6.0,8.0,-,-,--,-,--
+
+#: SQRT(S)/NUCLEON [GEV],,,2760.0
+#: PT [GEV],,,4.4 TO 8.0
+#: CENTRALITY,,,20 TO 40%
+$p_{\rm T}~({\rm GeV/}c)$,$p_{\rm T}~({\rm GeV/}c)$ LOW,$p_{\rm T}~({\rm GeV/}c)$ HIGH,$\overline{\mathrm d}$ / d,stat +,stat -,sys +,sys -
+4.7,4.4,5.0,0.9127,0.08845,-0.08845,0.1533,-0.1533
+5.5,5.0,6.0,0.888,0.4224,-0.4224,0.1491,-0.1491
+7.0,6.0,8.0,-,-,--,-,--
+
