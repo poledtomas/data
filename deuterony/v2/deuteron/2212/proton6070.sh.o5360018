@@ -1,0 +1,30 @@
+   ------------------------------------------------------------------
+  | Welcome to ROOT 6.24/00                        https://root.cern |
+  | (c) 1995-2021, The ROOT Team; conception: R. Brun, F. Rademakers |
+  | Built for linuxx8664gcc on Apr 14 2021, 14:33:50                 |
+  | From tags/v6-24-00@v6-24-00                                      |
+  | With                                                             |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q'       |
+   ------------------------------------------------------------------
+
+
+Processing vn_EP_pT_pid.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-60-70-deuteron/",3000,500,2,2212,"lhc2760-60-70-deuteron")...
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-60-70-deuteron/
+Number of events: 417808
+Rn^sub = 1.27978
+ksi = 28.2774
+0.3	0.00372764	0.00104733
+0.5	0.00404253	0.000748048
+0.7	0.00780693	0.000651661
+0.9	0.0164744	0.000632666
+1.1	0.0241948	0.000656379
+1.3	0.0324854	0.000712277
+1.5	0.0417796	0.000802176
+1.7	0.0481273	0.000931339
+1.9	0.056113	0.00110954
+2.1	0.0590292	0.00135343
+2.3	0.0669412	0.00168123
+2.5	0.069809	0.00211625
+2.7	0.0732048	0.00270488
+2.9	0.0752293	0.0034598
+Results have been written to 'vn_EP_pT.dat'

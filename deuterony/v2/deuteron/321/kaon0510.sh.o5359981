@@ -1,0 +1,41 @@
+   ------------------------------------------------------------------
+  | Welcome to ROOT 6.24/00                        https://root.cern |
+  | (c) 1995-2021, The ROOT Team; conception: R. Brun, F. Rademakers |
+  | Built for linuxx8664gcc on Apr 14 2021, 14:33:50                 |
+  | From tags/v6-24-00@v6-24-00                                      |
+  | With                                                             |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q'       |
+   ------------------------------------------------------------------
+
+
+Processing vn_EP_pT_pid.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-05-10-deuteron/",3000,500,2,321,"lhc2760-05-10-deuteron")...
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-05-10-deuteron/
+Warning: Missing file #2581
+Warning: Missing file #2594
+Warning: Missing file #2635
+Warning: Missing file #2647
+Warning: Missing file #2659
+Warning: Missing file #2674
+Warning: Missing file #2677
+Warning: Missing file #2680
+Warning: Missing file #2681
+Warning: Missing file #2687
+Warning: Missing file #2688
+Warning: Missing file #2689
+Warning: Missing file #2692
+Warning: Missing file #2693
+Warning: Missing file #2696
+Warning: Missing file #2697
+Warning: Missing file #2698
+Warning: Missing file #2700
+Warning: Missing file #2701
+Warning: Missing file #2703
+Warning: Missing file #2704
+Warning: Missing file #2706
+Warning: Missing file #2707
+Warning: Missing file #2735
+Warning: Missing file #2749
+Warning: Missing file #2752
+Warning: Missing file #2753
+Warning: Missing file #2755
+Warning: Missing file #2758

@@ -1,0 +1,23 @@
+#: table_doi: 10.17182/hepdata.68162.v1/t37
+#: name: Table 37
+#: description: Phi v2 as a function of pT for centrality: 20-30%.
+
+#: data_file: Table37.yaml
+#: keyword reactions: Pb Pb --> CHARGED X
+#: keyword observables: V2
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: ABS(Y(RF=LAB)),<0.5
+#: Centrality,20-30%
+#: Particle,Phi
+#: Range,0.6 < pT < 6.0 (GeV/c)
+#: SQRT(S)/NUCLEON [GeV],2760.0
+pT [(GeV/c)],v2,stat +,stat -,sys +,sys -
+0.9,0.04357,0.007968,-0.007968,-0.01,0.01
+1.5,0.094808,0.007692,-0.007692,-0.01,0.01
+2.1,0.163059,0.010101,-0.010101,-0.01,0.01
+2.7,0.215639,0.011988,-0.011988,-0.01,0.01
+3.5,0.211338,0.014778,-0.014778,-0.01,0.01
+4.5,0.192282,0.020873,-0.020873,-0.01,0.01
+5.5,0.15072,0.035817,-0.035817,-0.01,0.01
+

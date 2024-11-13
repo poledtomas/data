@@ -1,0 +1,312 @@
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_cumulants_centrality.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-20-30-norm150-3000-deuteron/",100,200,2,"lhc2760-20-30-norm150-3000")...
+
+
+Calculating v2 centrality...
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-20-30-norm150-3000-deuteron/
+0.0842005	-nan
+Number of events in chosen centrality interval: 20000
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_cumulants_centrality.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-30-40-norm150-3000-deuteron/",100,200,2,"lhc2760-30-40-norm150-3000")...
+
+
+Calculating v2 centrality...
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-30-40-norm150-3000-deuteron/
+0.0997378	0.118609
+Number of events in chosen centrality interval: 20000
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_cumulants_centrality.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-40-50-norm150-3000-deuteron/",100,200,2,"lhc2760-40-50-norm150-3000")...
+
+
+Calculating v2 centrality...
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-40-50-norm150-3000-deuteron/
+Warning: Missing file #1
+Warning: Missing file #2
+Warning: Missing file #3
+Warning: Missing file #4
+Warning: Missing file #5
+Warning: Missing file #6
+Warning: Missing file #7
+Warning: Missing file #8
+Warning: Missing file #9
+Warning: Missing file #10
+Warning: Missing file #11
+Warning: Missing file #12
+Warning: Missing file #13
+Warning: Missing file #14
+Warning: Missing file #15
+Warning: Missing file #16
+Warning: Missing file #17
+Warning: Missing file #18
+Warning: Missing file #19
+Warning: Missing file #20
+Warning: Missing file #21
+Warning: Missing file #22
+Warning: Missing file #23
+Warning: Missing file #24
+Warning: Missing file #25
+Warning: Missing file #26
+Warning: Missing file #27
+Warning: Missing file #28
+Warning: Missing file #29
+Warning: Missing file #30
+Warning: Missing file #31
+Warning: Missing file #32
+Warning: Missing file #33
+Warning: Missing file #34
+Warning: Missing file #35
+Warning: Missing file #36
+Warning: Missing file #37
+Warning: Missing file #38
+Warning: Missing file #39
+Warning: Missing file #40
+Warning: Missing file #41
+Warning: Missing file #42
+Warning: Missing file #43
+Warning: Missing file #44
+Warning: Missing file #45
+Warning: Missing file #46
+Warning: Missing file #47
+Warning: Missing file #48
+Warning: Missing file #49
+Warning: Missing file #50
+Warning: Missing file #51
+Warning: Missing file #52
+Warning: Missing file #53
+Warning: Missing file #54
+Warning: Missing file #55
+Warning: Missing file #56
+Warning: Missing file #57
+Warning: Missing file #58
+Warning: Missing file #59
+Warning: Missing file #60
+Warning: Missing file #61
+Warning: Missing file #62
+Warning: Missing file #63
+Warning: Missing file #64
+Warning: Missing file #65
+Warning: Missing file #66
+Warning: Missing file #67
+Warning: Missing file #68
+Warning: Missing file #69
+Warning: Missing file #70
+Warning: Missing file #71
+Warning: Missing file #72
+Warning: Missing file #73
+Warning: Missing file #74
+Warning: Missing file #75
+Warning: Missing file #76
+Warning: Missing file #77
+Warning: Missing file #78
+Warning: Missing file #79
+Warning: Missing file #80
+Warning: Missing file #81
+Warning: Missing file #82
+Warning: Missing file #83
+Warning: Missing file #84
+Warning: Missing file #85
+Warning: Missing file #86
+Warning: Missing file #87
+Warning: Missing file #88
+Warning: Missing file #89
+Warning: Missing file #90
+Warning: Missing file #91
+Warning: Missing file #92
+Warning: Missing file #93
+Warning: Missing file #94
+Warning: Missing file #95
+Warning: Missing file #96
+Warning: Missing file #97
+Warning: Missing file #98
+Warning: Missing file #99
+Warning: Missing file #100
+3.39671e+06	nan
+Number of events in chosen centrality interval: 0
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_cumulants_centrality.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm150-3000-deuteron/",100,200,2,"lhc2760-50-60-norm150-3000")...
+
+
+Calculating v2 centrality...
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm150-3000-deuteron/
+0.105048	1.80845
+Number of events in chosen centrality interval: 20000
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_cumulants_centrality.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-60-70-norm150-3000-deuteron/",100,200,2,"lhc2760-60-70-norm150-3000")...
+
+
+Calculating v2 centrality...
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-60-70-norm150-3000-deuteron/
+0.0976865	2.20902
+Number of events in chosen centrality interval: 20000
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_cumulants_centrality.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-70-80-norm150-3000-deuteron/",100,200,2,"lhc2760-70-80-norm150-3000")...
+
+
+Calculating v2 centrality...
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-70-80-norm150-3000-deuteron/
+0.0884293	nan
+Number of events in chosen centrality interval: 20000
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_cumulants_centrality.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-80-90-norm150-3000-deuteron/",100,200,2,"lhc2760-80-90-norm150-3000")...
+
+
+Calculating v2 centrality...
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-80-90-norm150-3000-deuteron/
+Warning: Missing file #1
+Warning: Missing file #2
+Warning: Missing file #3
+Warning: Missing file #4
+Warning: Missing file #5
+Warning: Missing file #6
+Warning: Missing file #7
+Warning: Missing file #8
+Warning: Missing file #9
+Warning: Missing file #10
+Warning: Missing file #11
+Warning: Missing file #12
+Warning: Missing file #13
+Warning: Missing file #14
+Warning: Missing file #15
+Warning: Missing file #16
+Warning: Missing file #17
+Warning: Missing file #18
+Warning: Missing file #19
+Warning: Missing file #20
+Warning: Missing file #21
+Warning: Missing file #22
+Warning: Missing file #23
+Warning: Missing file #24
+Warning: Missing file #25
+Warning: Missing file #26
+Warning: Missing file #27
+Warning: Missing file #28
+Warning: Missing file #29
+Warning: Missing file #30
+Warning: Missing file #31
+Warning: Missing file #32
+Warning: Missing file #33
+Warning: Missing file #34
+Warning: Missing file #35
+Warning: Missing file #36
+Warning: Missing file #37
+Warning: Missing file #38
+Warning: Missing file #39
+Warning: Missing file #40
+Warning: Missing file #41
+Warning: Missing file #42
+Warning: Missing file #43
+Warning: Missing file #44
+Warning: Missing file #45
+Warning: Missing file #46
+Warning: Missing file #47
+Warning: Missing file #48
+Warning: Missing file #49
+Warning: Missing file #50
+Warning: Missing file #51
+Warning: Missing file #52
+Warning: Missing file #53
+Warning: Missing file #54
+Warning: Missing file #55
+Warning: Missing file #56
+Warning: Missing file #57
+Warning: Missing file #58
+Warning: Missing file #59
+Warning: Missing file #60
+Warning: Missing file #61
+Warning: Missing file #62
+Warning: Missing file #63
+Warning: Missing file #64
+Warning: Missing file #65
+Warning: Missing file #66
+Warning: Missing file #67
+Warning: Missing file #68
+Warning: Missing file #69
+Warning: Missing file #70
+Warning: Missing file #71
+Warning: Missing file #72
+Warning: Missing file #73
+Warning: Missing file #74
+Warning: Missing file #75
+Warning: Missing file #76
+Warning: Missing file #77
+Warning: Missing file #78
+Warning: Missing file #79
+Warning: Missing file #80
+Warning: Missing file #81
+Warning: Missing file #82
+Warning: Missing file #83
+Warning: Missing file #84
+Warning: Missing file #85
+Warning: Missing file #86
+Warning: Missing file #87
+Warning: Missing file #88
+Warning: Missing file #89
+Warning: Missing file #90
+Warning: Missing file #91
+Warning: Missing file #92
+Warning: Missing file #93
+Warning: Missing file #94
+Warning: Missing file #95
+Warning: Missing file #96
+Warning: Missing file #97
+Warning: Missing file #98
+Warning: Missing file #99
+Warning: Missing file #100
+-nan	nan
+Number of events in chosen centrality interval: 0

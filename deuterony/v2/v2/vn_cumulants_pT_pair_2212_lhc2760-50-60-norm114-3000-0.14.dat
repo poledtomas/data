@@ -1,0 +1,44 @@
+/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm114-3000-0.14/	2	2212
+0.32	-nan	-nan	nan	nan
+0.56	-nan	-nan	nan	nan
+0.8	-nan	-nan	nan	nan
+1.04	-nan	-nan	nan	nan
+1.28	-nan	-nan	nan	nan
+1.52	-nan	-nan	nan	nan
+1.76	-nan	-nan	nan	nan
+2	-nan	-nan	nan	nan
+2.24	-nan	-nan	nan	nan
+2.48	-nan	-nan	nan	nan
+2.72	-nan	-nan	nan	nan
+2.96	-nan	-nan	nan	nan
+3.2	-nan	-nan	nan	nan
+3.44	-nan	-nan	nan	nan
+3.68	-nan	-nan	nan	nan
+3.92	-nan	-nan	nan	nan
+4.16	-nan	-nan	nan	nan
+4.4	-nan	-nan	nan	nan
+4.64	-nan	-nan	nan	nan
+4.88	-nan	-nan	nan	nan
+
+/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm150-3000-0.14/	2	2212
+0.32	0.00846833	0.00222066	-0.472114	-nan
+0.56	0.0287169	0.0013718	0.513428	-nan
+0.8	0.0540796	0.0016992	0.271453	-nan
+1.04	0.0896462	0.0021637	0.45238	-nan
+1.28	0.114289	0.00243308	-0.200651	-nan
+1.52	0.149301	0.00342016	0.264292	-nan
+1.76	0.175808	0.00347504	-0.647925	-nan
+2	0.202375	0.00347597	1.10192	-nan
+2.24	0.216493	0.00725247	-0.99004	-nan
+2.48	0.222185	0.00810455	-0.715004	-nan
+2.72	0.245934	0.00883237	0.153502	-nan
+2.96	0.254788	0.0145331	-1.6086	-nan
+3.2	0.252332	0.0168689	-2.07826	-nan
+3.44	0.241788	0.0170415	-1.31154	-nan
+3.68	0.25782	0.0289049	-3.2086	-nan
+3.92	0.344819	0.0205579	-1.31089	-nan
+4.16	0.262327	0.053702	0.0238378	-nan
+4.4	0.354994	0.075341	-0.532157	-nan
+4.64	0.298278	0.0711299	10.7216	-nan
+4.88	0.190178	0.151918	-0.390672	-nan
+

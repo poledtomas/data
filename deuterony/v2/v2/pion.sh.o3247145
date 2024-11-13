@@ -1,0 +1,390 @@
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/llhc2760-30-40-norm114-3000-deuteron-zetaS3-0.4/",100,200,2,211,"llhc2760-30-40-norm114-3000-deuteron-zetaS3-0.4")...
+
+
+Calculating v_2{2} (pT)...211
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/llhc2760-30-40-norm114-3000-deuteron-zetaS3-0.4/
+Warning: Missing file #1
+Warning: Missing file #2
+Warning: Missing file #3
+Warning: Missing file #4
+Warning: Missing file #5
+5%
+Warning: Missing file #6
+Warning: Missing file #7
+Warning: Missing file #8
+Warning: Missing file #9
+Warning: Missing file #10
+10%
+Warning: Missing file #11
+Warning: Missing file #12
+Warning: Missing file #13
+Warning: Missing file #14
+Warning: Missing file #15
+15%
+Warning: Missing file #16
+Warning: Missing file #17
+Warning: Missing file #18
+Warning: Missing file #19
+Warning: Missing file #20
+20%
+Warning: Missing file #21
+Warning: Missing file #22
+Warning: Missing file #23
+Warning: Missing file #24
+Warning: Missing file #25
+25%
+Warning: Missing file #26
+Warning: Missing file #27
+Warning: Missing file #28
+Warning: Missing file #29
+Warning: Missing file #30
+30%
+Warning: Missing file #31
+Warning: Missing file #32
+Warning: Missing file #33
+Warning: Missing file #34
+Warning: Missing file #35
+35%
+Warning: Missing file #36
+Warning: Missing file #37
+Warning: Missing file #38
+Warning: Missing file #39
+Warning: Missing file #40
+40%
+Warning: Missing file #41
+Warning: Missing file #42
+Warning: Missing file #43
+Warning: Missing file #44
+Warning: Missing file #45
+45%
+Warning: Missing file #46
+Warning: Missing file #47
+Warning: Missing file #48
+Warning: Missing file #49
+Warning: Missing file #50
+50%
+Warning: Missing file #51
+Warning: Missing file #52
+Warning: Missing file #53
+Warning: Missing file #54
+Warning: Missing file #55
+55%
+Warning: Missing file #56
+Warning: Missing file #57
+Warning: Missing file #58
+Warning: Missing file #59
+Warning: Missing file #60
+60%
+Warning: Missing file #61
+Warning: Missing file #62
+Warning: Missing file #63
+Warning: Missing file #64
+Warning: Missing file #65
+65%
+Warning: Missing file #66
+Warning: Missing file #67
+Warning: Missing file #68
+Warning: Missing file #69
+Warning: Missing file #70
+70%
+Warning: Missing file #71
+Warning: Missing file #72
+Warning: Missing file #73
+Warning: Missing file #74
+Warning: Missing file #75
+75%
+Warning: Missing file #76
+Warning: Missing file #77
+Warning: Missing file #78
+Warning: Missing file #79
+Warning: Missing file #80
+80%
+Warning: Missing file #81
+Warning: Missing file #82
+Warning: Missing file #83
+Warning: Missing file #84
+Warning: Missing file #85
+85%
+Warning: Missing file #86
+Warning: Missing file #87
+Warning: Missing file #88
+Warning: Missing file #89
+Warning: Missing file #90
+90%
+Warning: Missing file #91
+Warning: Missing file #92
+Warning: Missing file #93
+Warning: Missing file #94
+Warning: Missing file #95
+95%
+Warning: Missing file #96
+Warning: Missing file #97
+Warning: Missing file #98
+Warning: Missing file #99
+Warning: Missing file #100
+100%
+Total number of events: 0
+0.32	-nan	-nan	nan	nan
+0.56	-nan	-nan	nan	nan
+0.8	-nan	-nan	nan	nan
+1.04	-nan	-nan	nan	nan
+1.28	-nan	-nan	nan	nan
+1.52	-nan	-nan	nan	nan
+1.76	-nan	-nan	nan	nan
+2	-nan	-nan	nan	nan
+2.24	-nan	-nan	nan	nan
+2.48	-nan	-nan	nan	nan
+2.72	-nan	-nan	nan	nan
+2.96	-nan	-nan	nan	nan
+3.2	-nan	-nan	nan	nan
+3.44	-nan	-nan	nan	nan
+3.68	-nan	-nan	nan	nan
+3.92	-nan	-nan	nan	nan
+4.16	-nan	-nan	nan	nan
+4.4	-nan	-nan	nan	nan
+4.64	-nan	-nan	nan	nan
+4.88	-nan	-nan	nan	nan
+Results have been written to:  vn_cumulants_pT_pair_211_llhc2760-30-40-norm114-3000-deuteron-zetaS3-0.4.dat
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-30-40-norm114-3000-deuteron-zetaS3-0.8/",100,200,2,211,"lhc2760-30-40-norm114-3000-deuteron-zetaS3-0.8")...
+
+
+Calculating v_2{2} (pT)...211
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-30-40-norm114-3000-deuteron-zetaS3-0.8/
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+70%
+75%
+80%
+85%
+90%
+95%
+100%
+Total number of events: 20000
+0.32	0.0249637	0.000144914	-2.21763	-nan
+0.56	0.0619188	0.000240179	2.74307	-nan
+0.8	0.0992222	0.000231359	-1.75532	-nan
+1.04	0.134464	0.000595692	-1.42418	-nan
+1.28	0.166761	0.000580572	-16.9584	-nan
+1.52	0.19571	0.000868338	117.817	-nan
+1.76	0.220925	0.00123896	-0.207687	-nan
+2	0.242957	0.00180571	0.28913	-nan
+2.24	0.262609	0.00136664	-0.509567	-nan
+2.48	0.283038	0.00227137	0.0168035	-nan
+2.72	0.303005	0.00379613	0.0178914	-nan
+2.96	0.313348	0.00600009	0.0204835	-nan
+3.2	0.312516	0.00900255	0.00690149	-nan
+3.44	0.339008	0.0104566	0.0176748	-nan
+3.68	0.317377	0.0234458	-0.00257832	-nan
+3.92	0.363868	0.0287233	0.00530863	-nan
+4.16	0.345194	0.0419003	0.00156416	-nan
+4.4	0.355814	0.0760668	0.002366	-nan
+4.64	0.342019	0.115702	0.000808811	-nan
+4.88	0.264978	-nan	0.000592273	nan
+Results have been written to:  vn_cumulants_pT_pair_211_lhc2760-30-40-norm114-3000-deuteron-zetaS3-0.8.dat
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-40-50-norm114-3000-deuteron-zetaS3-0.4/",100,200,2,211,"lhc2760-40-50-norm114-3000-deuteron-zetaS3-0.4")...
+
+
+Calculating v_2{2} (pT)...211
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-40-50-norm114-3000-deuteron-zetaS3-0.4/
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+70%
+75%
+80%
+85%
+90%
+95%
+100%
+Total number of events: 20000
+0.32	0.0283719	0.000214931	-1.25219	0.741356
+0.56	0.067549	0.000269061	-2.54966	6.38288
+0.8	0.105417	0.000478705	-2.31901	1.24835
+1.04	0.137194	0.000406723	5.78965	3.1217
+1.28	0.166196	0.000574534	2.05594	11.8747
+1.52	0.187342	0.00123595	2.26479	0.171236
+1.76	0.20724	0.00160142	-0.227193	0.0480791
+2	0.22396	0.00217165	-0.0511869	0.0216091
+2.24	0.234826	0.00311607	-0.0273519	0.0119147
+2.48	0.244398	0.00371907	-0.017346	0.0062881
+2.72	0.259551	0.00616297	-0.015795	0.019063
+2.96	0.257839	0.00577099	-0.00982072	0.00352941
+3.2	0.244621	0.0103793	-0.0104322	0.0204198
+3.44	0.272205	0.0217723	-0.0243733	0.00255032
+3.68	0.300048	0.0161823	-0.00713032	0.00166683
+3.92	0.247975	0.0384109	-0.00177638	0.00132126
+4.16	0.265317	0.0350617	-0.011342	0.0007296
+4.4	0.26911	0.0751593	0.00157474	0.000542049
+4.64	0.180157	0.0798134	0.000784295	0.00159406
+4.88	0.331735	-nan	-0.00115256	nan
+Results have been written to:  vn_cumulants_pT_pair_211_lhc2760-40-50-norm114-3000-deuteron-zetaS3-0.4.dat
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-40-50-norm114-3000-deuteron-zetaS3-0.8/",100,200,2,211,"lhc2760-40-50-norm114-3000-deuteron-zetaS3-0.8")...
+
+
+Calculating v_2{2} (pT)...211
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-40-50-norm114-3000-deuteron-zetaS3-0.8/
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+70%
+75%
+80%
+85%
+90%
+95%
+100%
+Total number of events: 20000
+0.32	0.0256863	0.000230056	-0.797568	2.14929
+0.56	0.0632528	0.000208645	2.35799	0.313434
+0.8	0.0996699	0.00042594	-0.655173	0.227646
+1.04	0.133646	0.000759268	2.41059	3.87553
+1.28	0.162672	0.00055359	-0.535767	0.0983005
+1.52	0.189139	0.000943176	-0.290932	0.0963679
+1.76	0.213969	0.0011747	0.443189	0.246354
+2	0.233141	0.00129974	0.0765668	0.131065
+2.24	0.249819	0.00318767	0.0291939	0.00863887
+2.48	0.267066	0.00532654	0.0474435	0.00693808
+2.72	0.278731	0.00407554	-0.0264264	0.00505695
+2.96	0.274021	0.00659979	-0.395852	0.00532936
+3.2	0.295833	0.0159383	0.0112487	0.00307148
+3.44	0.284865	0.0162942	-0.00600817	0.00157429
+3.68	0.301818	0.0309013	0.00282342	0.00295387
+3.92	0.308687	0.0201839	-0.00279177	0.000679762
+4.16	0.366076	0.0666352	-0.00166579	0.000450847
+4.4	0.31563	0.0764266	0.00193576	0.000269574
+4.64	0.360176	-nan	0.00652163	nan
+4.88	0.559146	-nan	-0.00443922	nan
+Results have been written to:  vn_cumulants_pT_pair_211_lhc2760-40-50-norm114-3000-deuteron-zetaS3-0.8.dat
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm114-3000-deuteron-zetaS3-0.4/",100,200,2,211,"lhc2760-50-60-norm114-3000-deuteron-zetaS3-0.4")...
+
+
+Calculating v_2{2} (pT)...211
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm114-3000-deuteron-zetaS3-0.4/
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+70%
+75%
+80%
+85%
+90%
+95%
+100%
+Total number of events: 20000
+0.32	0.0297747	0.000356686	3.45177	0.379658
+0.56	0.0697988	0.000486269	36.7724	1.7878
+0.8	0.108023	0.000840863	-8.22929	0.518278
+1.04	0.142185	0.00137602	0.663845	0.177237
+1.28	0.171583	0.00106035	-2.57807	0.67671
+1.52	0.198422	0.00230584	-0.0888175	0.0174888
+1.76	0.22029	0.00257349	-0.0146133	0.0013438
+2	0.237037	0.00361574	-0.0053516	0.000569376
+2.24	0.248422	0.00408532	-0.00214477	0.000202513
+2.48	0.260294	0.00661447	-0.00128069	7.3638e-05
+2.72	0.287316	0.00975459	-0.00112783	0.000126258
+2.96	0.298163	0.0126883	-0.00102009	0.000135224
+3.2	0.296023	0.0202203	-0.00105656	0.000162994
+3.44	0.279609	0.0215925	-0.000997054	0.000279867
+3.68	0.345686	0.0236335	-0.000916611	0.000427539
+3.92	0.291515	0.0475481	-0.000957395	0.0110886
+4.16	0.249571	0.0958297	-0.00182992	0.000766013
+4.4	0.321399	0.0842448	-0.000746416	0.000449661
+4.64	0.520891	-nan	-0.00120081	nan
+4.88	0.102363	-nan	0.000122005	nan
+Results have been written to:  vn_cumulants_pT_pair_211_lhc2760-50-60-norm114-3000-deuteron-zetaS3-0.4.dat
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm114-3000-deuteron-zetaS3-0.8/,100,200,2,211,"lhc2760-50-60-norm114-3000-deuteron-zetaS3-0.8)...

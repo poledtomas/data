@@ -1,0 +1,224 @@
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-60-70-norm150-3000-0.12/",100,200,2,211,"lhc2760-60-70-norm114-3000-0.12")...
+
+
+Calculating v_2{2} (pT)...211
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-60-70-norm150-3000-0.12/
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+70%
+75%
+80%
+85%
+90%
+95%
+100%
+Total number of events: 20000
+0.32	0.0307136	0.000424899	-nan	-nan
+0.56	0.0676098	0.000525979	-nan	-nan
+0.8	0.102008	0.00110256	-nan	-nan
+1.04	0.126875	0.00125238	-nan	-nan
+1.28	0.147633	0.00133946	-nan	-nan
+1.52	0.16484	0.00220328	-nan	-nan
+1.76	0.178253	0.0029512	-nan	-nan
+2	0.193892	0.00426694	-nan	-nan
+2.24	0.19943	0.0041022	-nan	-nan
+2.48	0.204341	0.00971684	-nan	-nan
+2.72	0.206763	0.00931871	-nan	-nan
+2.96	0.252817	0.00438748	-nan	-nan
+3.2	0.24595	0.0159622	-nan	-nan
+3.44	0.246945	0.0190157	-nan	-nan
+3.68	0.229249	0.029348	-nan	-nan
+3.92	0.222292	0.0515737	-nan	-nan
+4.16	0.201749	0.101532	-nan	-nan
+4.4	0.473764	0.15995	-nan	-nan
+4.64	0.306183	0.0938141	-nan	-nan
+4.88	0.123123	0.179767	-nan	-nan
+Results have been written to:  vn_cumulants_pT_pair_211_lhc2760-60-70-norm114-3000-0.12.dat
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-60-70-norm150-3000-0.13/",100,200,2,211,"lhc2760-60-70-norm114-3000-0.13")...
+
+
+Calculating v_2{2} (pT)...211
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-60-70-norm150-3000-0.13/
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+70%
+75%
+80%
+85%
+90%
+95%
+100%
+Total number of events: 20000
+0.32	0.0302549	0.000493994	-nan	-nan
+0.56	0.0660759	0.000456196	-nan	-nan
+0.8	0.0964892	0.000560644	-nan	-nan
+1.04	0.12161	0.000537041	-nan	-nan
+1.28	0.141065	0.00134867	-nan	-nan
+1.52	0.158731	0.00285935	-nan	-nan
+1.76	0.176748	0.00156573	-nan	-nan
+2	0.179046	0.00427505	-nan	-nan
+2.24	0.187582	0.00526238	-nan	-nan
+2.48	0.193988	0.00667391	-nan	-nan
+2.72	0.204776	0.00770483	-nan	-nan
+2.96	0.214412	0.019591	-nan	-nan
+3.2	0.178107	0.0142029	-nan	-nan
+3.44	0.19644	0.025632	-nan	-nan
+3.68	0.23581	0.0413899	-nan	-nan
+3.92	0.284279	0.0456257	-nan	-nan
+4.16	0.0564566	0.0956255	-nan	-nan
+4.4	0.140923	0.0920737	-nan	-nan
+4.64	0.277455	0.239701	-nan	-nan
+4.88	0.236513	-nan	-nan	nan
+Results have been written to:  vn_cumulants_pT_pair_211_lhc2760-60-70-norm114-3000-0.13.dat
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-60-70-norm150-3000-0.14/",100,200,2,211,"lhc2760-60-70-norm114-3000-0.14")...
+
+
+Calculating v_2{2} (pT)...211
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-60-70-norm150-3000-0.14/
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+70%
+75%
+80%
+85%
+90%
+95%
+100%
+Total number of events: 20000
+0.32	0.029247	0.00030645	-nan	-nan
+0.56	0.0643557	0.000577462	-nan	-nan
+0.8	0.0937654	0.000632406	-nan	-nan
+1.04	0.117772	0.000731489	-nan	-nan
+1.28	0.137934	0.00157444	-nan	-nan
+1.52	0.152558	0.00196426	-nan	-nan
+1.76	0.166425	0.00304207	-nan	-nan
+2	0.178561	0.00302043	-nan	-nan
+2.24	0.183434	0.00524125	-nan	-nan
+2.48	0.199858	0.0107126	-nan	-nan
+2.72	0.190621	0.0126799	-nan	-nan
+2.96	0.230266	0.011546	-nan	-nan
+3.2	0.206189	0.01433	-nan	-nan
+3.44	0.22377	0.0200904	-nan	-nan
+3.68	0.213167	0.0333246	-nan	-nan
+3.92	0.195385	0.0249816	-nan	-nan
+4.16	0.191234	0.0615363	-nan	-nan
+4.4	0.254146	0.133399	-nan	-nan
+4.64	0.424388	0.101244	-nan	-nan
+4.88	0.356314	0.164833	-nan	-nan
+Results have been written to:  vn_cumulants_pT_pair_211_lhc2760-60-70-norm114-3000-0.14.dat
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-60-70-norm150-3000-0.15/",100,200,2,211,"lhc2760-60-70-norm114-3000-0.15")...
+
+
+Calculating v_2{2} (pT)...211
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-60-70-norm150-3000-0.15/
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+70%
+75%
+80%
+85%
+90%
+95%
+100%
+Total number of events: 20000
+0.32	0.0282333	0.000538951	-nan	-nan
+0.56	0.0613846	0.000401773	-nan	-nan
+0.8	0.0898158	0.000921685	-nan	-nan
+1.04	0.115733	0.000924249	-nan	-nan
+1.28	0.132054	0.00124085	-nan	-nan
+1.52	0.145847	0.00256787	-nan	-nan
+1.76	0.158654	0.00454859	-nan	-nan
+2	0.163611	0.00349191	-nan	-nan
+2.24	0.177796	0.00510297	-nan	-nan
+2.48	0.188972	0.00606006	-nan	-nan
+2.72	0.190874	0.00957118	-nan	-nan
+2.96	0.185078	0.0108907	-nan	-nan
+3.2	0.19396	0.0187079	-nan	-nan
+3.44	0.195132	0.0208136	-nan	-nan
+3.68	0.224831	0.03423	-nan	-nan
+3.92	0.269445	0.0513058	-nan	-nan
+4.16	0.163517	0.042432	-nan	-nan
+4.4	0.308176	0.111721	-nan	-nan
+4.64	0.150145	0.258421	-nan	-nan
+4.88	-0.0361021	-nan	-nan	nan
+Results have been written to:  vn_cumulants_pT_pair_211_lhc2760-60-70-norm114-3000-0.15.dat

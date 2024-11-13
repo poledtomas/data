@@ -1,0 +1,80 @@
+   ------------------------------------------------------------------
+  | Welcome to ROOT 6.24/00                        https://root.cern |
+  | (c) 1995-2021, The ROOT Team; conception: R. Brun, F. Rademakers |
+  | Built for linuxx8664gcc on Apr 14 2021, 14:33:50                 |
+  | From tags/v6-24-00@v6-24-00                                      |
+  | With                                                             |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q'       |
+   ------------------------------------------------------------------
+
+
+Processing vn_EP_pT_pid.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-05-10-deuteron/",3000,500,2,2212,"lhc2760-05-10-deuteron")...
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-05-10-deuteron/
+Warning: Missing file #2581
+Warning: Missing file #2594
+Warning: Missing file #2635
+Warning: Missing file #2647
+Warning: Missing file #2659
+Warning: Missing file #2674
+Warning: Missing file #2677
+Warning: Missing file #2680
+Warning: Missing file #2681
+Warning: Missing file #2687
+Warning: Missing file #2688
+Warning: Missing file #2689
+Warning: Missing file #2692
+Warning: Missing file #2693
+Warning: Missing file #2696
+Warning: Missing file #2697
+Warning: Missing file #2698
+Warning: Missing file #2700
+Warning: Missing file #2701
+Warning: Missing file #2703
+Warning: Missing file #2704
+Warning: Missing file #2706
+Warning: Missing file #2707
+Warning: Missing file #2735
+Warning: Missing file #2749
+Warning: Missing file #2752
+Warning: Missing file #2753
+Warning: Missing file #2755
+Warning: Missing file #2758
+Warning: Missing file #2789
+Warning: Missing file #2794
+Warning: Missing file #2802
+Warning: Missing file #2832
+Warning: Missing file #2852
+Warning: Missing file #2856
+Warning: Missing file #2860
+Warning: Missing file #2875
+Warning: Missing file #2882
+Warning: Missing file #2886
+Warning: Missing file #2900
+Warning: Missing file #2901
+Warning: Missing file #2903
+Warning: Missing file #2904
+Warning: Missing file #2909
+Warning: Missing file #2918
+Warning: Missing file #2930
+Warning: Missing file #2939
+Warning: Missing file #2940
+Warning: Missing file #2958
+Warning: Missing file #2992
+Number of events: 1161553
+Rn^sub = 0.934544
+ksi = 4.16392
+0.3	0.000398494	0.00048724
+0.5	-0.0016629	0.000313758
+0.7	-5.46319e-05	0.000241909
+0.9	0.00298106	0.000212404
+1.1	0.00922032	0.000203298
+1.3	0.0173492	0.000207219
+1.5	0.0259651	0.000220875
+1.7	0.0339478	0.000244568
+1.9	0.0411822	0.000278997
+2.1	0.0474604	0.000327934
+2.3	0.0528767	0.000390334
+2.5	0.0568274	0.00046452
+2.7	0.0612759	0.000549568
+2.9	0.0654786	0.000652776
+Results have been written to 'vn_EP_pT.dat'

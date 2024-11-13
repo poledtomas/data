@@ -1,0 +1,13 @@
+Loading python36-modules/gcc
+  Loading requirement: python/3.6.2-gcc
+ERROR: Unable to locate a modulefile for 'cmake/3.15.3'
+ERROR in cling::CIFactory::createCI(): cannot extract standard library include paths!
+Invoking:
+  LC_ALL=C x86_64-linux-gnu-g++-6  -O3 -DNDEBUG -xc++ -E -v /dev/null 2>&1 >/dev/null | awk '/^#include </,/^End of search/{if (!/^#include </ && !/^End of search/){ print }}' | GREP_OPTIONS= grep -E "(c|g)\+\+"
+Results was:
+With exit code 256
+ERROR in cling::CIFactory::createCI(): cannot extract standard library include paths!
+Invoking:
+  LC_ALL=C x86_64-linux-gnu-g++-6  -O3 -DNDEBUG -xc++ -E -v /dev/null 2>&1 >/dev/null | awk '/^#include </,/^End of search/{if (!/^#include </ && !/^End of search/){ print }}' | GREP_OPTIONS= grep -E "(c|g)\+\+"
+Results was:
+With exit code 256

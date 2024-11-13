@@ -1,0 +1,25 @@
+#: table_doi: 10.17182/hepdata.68162.v1/t50
+#: name: Table 50
+#: description: Xi+AntiXi v2 as a function of pT for centrality: 10-20%.
+
+#: data_file: Table50.yaml
+#: keyword reactions: Pb Pb --> CHARGED X
+#: keyword observables: V2
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: ABS(Y(RF=LAB)),<0.5
+#: Centrality,10-20%
+#: Particle,Xi+AntiXi
+#: Range,1.0 < pT < 6.0 (GeV/c)
+#: SQRT(S)/NUCLEON [GeV],2760.0
+pT [(GeV/c)],v2,stat +,stat -,sys +,sys -
+1.3056,0.0313,0.0041,-0.0041,-0.003,0.003
+1.7614,0.0685,0.0028,-0.0028,-0.0032,0.0032
+2.2416,0.1115,0.0028,-0.0028,-0.0036,0.0036
+2.7272,0.1397,0.0034,-0.0034,-0.004,0.004
+3.2171,0.1676,0.0047,-0.0047,-0.0045,0.0045
+3.7167,0.1925,0.0068,-0.0068,-0.0047,0.0047
+4.2139,0.2109,0.0106,-0.0106,-0.0053,0.0053
+4.7085,0.1846,0.0172,-0.0172,-0.0052,0.0052
+5.3617,0.1799,0.0217,-0.0217,-0.0164,0.0164
+

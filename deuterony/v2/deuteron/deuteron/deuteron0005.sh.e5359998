@@ -1,0 +1,38 @@
+Loading root/6.24.00
+  Loading requirement: kbproto/1.0.7-intel-19.0.4-bpapeqa
+    libxcb/1.13-intel-19.0.4-rfz7bpk xextproto/7.3.0-intel-19.0.4-wm3telh
+    libx11/1.6.7-intel-19.0.4-zbp6qfj gettext/0.20.2-intel-19.0.4-z4pwtjs
+    libxpm/3.5.12-intel-19.0.4-hqsioqd font-util/1.3.2-intel-19.0.4-7w4vizh
+    freetype/2.10.1-intel-19.0.4-dn7u3hp libuuid/1.0.3-intel-19.0.4-x7g3xvn
+    libxml2/2.9.10-intel-19.0.4-nbuqhvs fontconfig/2.13.1-intel-19.0.4-7iwnwjm
+    renderproto/0.11.1-intel-19.0.4-mg2rabh
+    libxrender/0.9.10-intel-19.0.4-ywk3rj7 libxft/2.3.2-intel-19.0.4-jntm4zu
+    libxext/1.3.3-intel-19.0.4-ywlrlxe libpng/1.6.37-intel-19.0.4-wvakia7
+    libjpeg-turbo/2.0.4-intel-19.0.4-tniak7k openssl/1.1.1g-intel-19.0.4-pchs7lg
+Loading python36-modules/gcc
+  Loading requirement: python/3.6.2-gcc
+ln: failed to create symbolic link 'x86_64-linux-gnu-g++-9': File exists
+ERROR in cling::CIFactory::createCI(): cannot extract standard library include paths!
+Invoking:
+  LC_ALL=C x86_64-linux-gnu-g++-9   -xc++ -E -v /dev/null 2>&1 | sed -n -e '/^.include/,${' -e '/^ \/.*++/p' -e '}'
+Results was:
+With exit code 0
+#0  0x0000148839446b13 in __GI___wait4 (pid=820078, stat_loc=stat_loc
+entry=0x7fffc57c5f08, options=options
+entry=0, usage=usage
+entry=0x0) at ../sysdeps/unix/sysv/linux/wait4.c:30
+#1  0x0000148839446ad7 in __GI___waitpid (pid=<optimized out>, stat_loc=stat_loc
+entry=0x7fffc57c5f08, options=options
+entry=0) at ./posix/waitpid.c:38
+#2  0x00001488393bf2fb in do_system (line=<optimized out>) at ../sysdeps/posix/system.c:171
+#3  0x0000148839aaebfe in TUnixSystem::StackTrace() () from /afs/.ics.muni.cz/software/root/6.24.00/lib/libCore.so.6.24
+#4  0x0000148835104d20 in cling::MultiplexInterpreterCallbacks::PrintStackTrace() () from /afs/.ics.muni.cz/software/root/6.24.00/lib/libCling.so
+#5  0x00001488350f8b62 in cling_runtime_internal_throwIfInvalidPointer () from /afs/.ics.muni.cz/software/root/6.24.00/lib/libCling.so
+#6  0x000014883363955f in ?? ()
+#7  0x0000000000000000 in ?? ()
+Error in <HandleInterpreterException>: Trying to dereference null pointer or trying to call routine taking non-null arguments.
+Execution of your code was aborted.
+In file included from input_line_8:1:
+/auto/brno12-cerit/nfs4/home/poledto1/hydro/hybrid/root_scripts/v2/deuteron/deuteron/vn_EP_pT_pid.c:83:34: warning: null passed to a callee that requires a non-null argument [-Wnonnull]
+                int npart = atoi(pars[4]);
+                                 ^~~~~~~

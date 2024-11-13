@@ -1,0 +1,624 @@
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm114-3000-0.12/",100,200,2,2212,"lhc2760-50-60-norm114-3000-0.12")...
+
+
+Calculating v_2{2} (pT)...2212
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm114-3000-0.12/
+Warning: Missing file #1
+Warning: Missing file #2
+Warning: Missing file #3
+Warning: Missing file #4
+Warning: Missing file #5
+5%
+Warning: Missing file #6
+Warning: Missing file #7
+Warning: Missing file #8
+Warning: Missing file #9
+Warning: Missing file #10
+10%
+Warning: Missing file #11
+Warning: Missing file #12
+Warning: Missing file #13
+Warning: Missing file #14
+Warning: Missing file #15
+15%
+Warning: Missing file #16
+Warning: Missing file #17
+Warning: Missing file #18
+Warning: Missing file #19
+Warning: Missing file #20
+20%
+Warning: Missing file #21
+Warning: Missing file #22
+Warning: Missing file #23
+Warning: Missing file #24
+Warning: Missing file #25
+25%
+Warning: Missing file #26
+Warning: Missing file #27
+Warning: Missing file #28
+Warning: Missing file #29
+Warning: Missing file #30
+30%
+Warning: Missing file #31
+Warning: Missing file #32
+Warning: Missing file #33
+Warning: Missing file #34
+Warning: Missing file #35
+35%
+Warning: Missing file #36
+Warning: Missing file #37
+Warning: Missing file #38
+Warning: Missing file #39
+Warning: Missing file #40
+40%
+Warning: Missing file #41
+Warning: Missing file #42
+Warning: Missing file #43
+Warning: Missing file #44
+Warning: Missing file #45
+45%
+Warning: Missing file #46
+Warning: Missing file #47
+Warning: Missing file #48
+Warning: Missing file #49
+Warning: Missing file #50
+50%
+Warning: Missing file #51
+Warning: Missing file #52
+Warning: Missing file #53
+Warning: Missing file #54
+Warning: Missing file #55
+55%
+Warning: Missing file #56
+Warning: Missing file #57
+Warning: Missing file #58
+Warning: Missing file #59
+Warning: Missing file #60
+60%
+Warning: Missing file #61
+Warning: Missing file #62
+Warning: Missing file #63
+Warning: Missing file #64
+Warning: Missing file #65
+65%
+Warning: Missing file #66
+Warning: Missing file #67
+Warning: Missing file #68
+Warning: Missing file #69
+Warning: Missing file #70
+70%
+Warning: Missing file #71
+Warning: Missing file #72
+Warning: Missing file #73
+Warning: Missing file #74
+Warning: Missing file #75
+75%
+Warning: Missing file #76
+Warning: Missing file #77
+Warning: Missing file #78
+Warning: Missing file #79
+Warning: Missing file #80
+80%
+Warning: Missing file #81
+Warning: Missing file #82
+Warning: Missing file #83
+Warning: Missing file #84
+Warning: Missing file #85
+85%
+Warning: Missing file #86
+Warning: Missing file #87
+Warning: Missing file #88
+Warning: Missing file #89
+Warning: Missing file #90
+90%
+Warning: Missing file #91
+Warning: Missing file #92
+Warning: Missing file #93
+Warning: Missing file #94
+Warning: Missing file #95
+95%
+Warning: Missing file #96
+Warning: Missing file #97
+Warning: Missing file #98
+Warning: Missing file #99
+Warning: Missing file #100
+100%
+Total number of events: 0
+0.32	-nan	-nan	nan	nan
+0.56	-nan	-nan	nan	nan
+0.8	-nan	-nan	nan	nan
+1.04	-nan	-nan	nan	nan
+1.28	-nan	-nan	nan	nan
+1.52	-nan	-nan	nan	nan
+1.76	-nan	-nan	nan	nan
+2	-nan	-nan	nan	nan
+2.24	-nan	-nan	nan	nan
+2.48	-nan	-nan	nan	nan
+2.72	-nan	-nan	nan	nan
+2.96	-nan	-nan	nan	nan
+3.2	-nan	-nan	nan	nan
+3.44	-nan	-nan	nan	nan
+3.68	-nan	-nan	nan	nan
+3.92	-nan	-nan	nan	nan
+4.16	-nan	-nan	nan	nan
+4.4	-nan	-nan	nan	nan
+4.64	-nan	-nan	nan	nan
+4.88	-nan	-nan	nan	nan
+Results have been written to:  vn_cumulants_pT_pair_2212_lhc2760-50-60-norm114-3000-0.12.dat
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm114-3000-0.13/",100,200,2,2212,"lhc2760-50-60-norm114-3000-0.13")...
+
+
+Calculating v_2{2} (pT)...2212
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm114-3000-0.13/
+Warning: Missing file #1
+Warning: Missing file #2
+Warning: Missing file #3
+Warning: Missing file #4
+Warning: Missing file #5
+5%
+Warning: Missing file #6
+Warning: Missing file #7
+Warning: Missing file #8
+Warning: Missing file #9
+Warning: Missing file #10
+10%
+Warning: Missing file #11
+Warning: Missing file #12
+Warning: Missing file #13
+Warning: Missing file #14
+Warning: Missing file #15
+15%
+Warning: Missing file #16
+Warning: Missing file #17
+Warning: Missing file #18
+Warning: Missing file #19
+Warning: Missing file #20
+20%
+Warning: Missing file #21
+Warning: Missing file #22
+Warning: Missing file #23
+Warning: Missing file #24
+Warning: Missing file #25
+25%
+Warning: Missing file #26
+Warning: Missing file #27
+Warning: Missing file #28
+Warning: Missing file #29
+Warning: Missing file #30
+30%
+Warning: Missing file #31
+Warning: Missing file #32
+Warning: Missing file #33
+Warning: Missing file #34
+Warning: Missing file #35
+35%
+Warning: Missing file #36
+Warning: Missing file #37
+Warning: Missing file #38
+Warning: Missing file #39
+Warning: Missing file #40
+40%
+Warning: Missing file #41
+Warning: Missing file #42
+Warning: Missing file #43
+Warning: Missing file #44
+Warning: Missing file #45
+45%
+Warning: Missing file #46
+Warning: Missing file #47
+Warning: Missing file #48
+Warning: Missing file #49
+Warning: Missing file #50
+50%
+Warning: Missing file #51
+Warning: Missing file #52
+Warning: Missing file #53
+Warning: Missing file #54
+Warning: Missing file #55
+55%
+Warning: Missing file #56
+Warning: Missing file #57
+Warning: Missing file #58
+Warning: Missing file #59
+Warning: Missing file #60
+60%
+Warning: Missing file #61
+Warning: Missing file #62
+Warning: Missing file #63
+Warning: Missing file #64
+Warning: Missing file #65
+65%
+Warning: Missing file #66
+Warning: Missing file #67
+Warning: Missing file #68
+Warning: Missing file #69
+Warning: Missing file #70
+70%
+Warning: Missing file #71
+Warning: Missing file #72
+Warning: Missing file #73
+Warning: Missing file #74
+Warning: Missing file #75
+75%
+Warning: Missing file #76
+Warning: Missing file #77
+Warning: Missing file #78
+Warning: Missing file #79
+Warning: Missing file #80
+80%
+Warning: Missing file #81
+Warning: Missing file #82
+Warning: Missing file #83
+Warning: Missing file #84
+Warning: Missing file #85
+85%
+Warning: Missing file #86
+Warning: Missing file #87
+Warning: Missing file #88
+Warning: Missing file #89
+Warning: Missing file #90
+90%
+Warning: Missing file #91
+Warning: Missing file #92
+Warning: Missing file #93
+Warning: Missing file #94
+Warning: Missing file #95
+95%
+Warning: Missing file #96
+Warning: Missing file #97
+Warning: Missing file #98
+Warning: Missing file #99
+Warning: Missing file #100
+100%
+Total number of events: 0
+0.32	-nan	-nan	nan	nan
+0.56	-nan	-nan	nan	nan
+0.8	-nan	-nan	nan	nan
+1.04	-nan	-nan	nan	nan
+1.28	-nan	-nan	nan	nan
+1.52	-nan	-nan	nan	nan
+1.76	-nan	-nan	nan	nan
+2	-nan	-nan	nan	nan
+2.24	-nan	-nan	nan	nan
+2.48	-nan	-nan	nan	nan
+2.72	-nan	-nan	nan	nan
+2.96	-nan	-nan	nan	nan
+3.2	-nan	-nan	nan	nan
+3.44	-nan	-nan	nan	nan
+3.68	-nan	-nan	nan	nan
+3.92	-nan	-nan	nan	nan
+4.16	-nan	-nan	nan	nan
+4.4	-nan	-nan	nan	nan
+4.64	-nan	-nan	nan	nan
+4.88	-nan	-nan	nan	nan
+Results have been written to:  vn_cumulants_pT_pair_2212_lhc2760-50-60-norm114-3000-0.13.dat
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm114-3000-0.14/",100,200,2,2212,"lhc2760-50-60-norm114-3000-0.14")...
+
+
+Calculating v_2{2} (pT)...2212
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm114-3000-0.14/
+Warning: Missing file #1
+Warning: Missing file #2
+Warning: Missing file #3
+Warning: Missing file #4
+Warning: Missing file #5
+5%
+Warning: Missing file #6
+Warning: Missing file #7
+Warning: Missing file #8
+Warning: Missing file #9
+Warning: Missing file #10
+10%
+Warning: Missing file #11
+Warning: Missing file #12
+Warning: Missing file #13
+Warning: Missing file #14
+Warning: Missing file #15
+15%
+Warning: Missing file #16
+Warning: Missing file #17
+Warning: Missing file #18
+Warning: Missing file #19
+Warning: Missing file #20
+20%
+Warning: Missing file #21
+Warning: Missing file #22
+Warning: Missing file #23
+Warning: Missing file #24
+Warning: Missing file #25
+25%
+Warning: Missing file #26
+Warning: Missing file #27
+Warning: Missing file #28
+Warning: Missing file #29
+Warning: Missing file #30
+30%
+Warning: Missing file #31
+Warning: Missing file #32
+Warning: Missing file #33
+Warning: Missing file #34
+Warning: Missing file #35
+35%
+Warning: Missing file #36
+Warning: Missing file #37
+Warning: Missing file #38
+Warning: Missing file #39
+Warning: Missing file #40
+40%
+Warning: Missing file #41
+Warning: Missing file #42
+Warning: Missing file #43
+Warning: Missing file #44
+Warning: Missing file #45
+45%
+Warning: Missing file #46
+Warning: Missing file #47
+Warning: Missing file #48
+Warning: Missing file #49
+Warning: Missing file #50
+50%
+Warning: Missing file #51
+Warning: Missing file #52
+Warning: Missing file #53
+Warning: Missing file #54
+Warning: Missing file #55
+55%
+Warning: Missing file #56
+Warning: Missing file #57
+Warning: Missing file #58
+Warning: Missing file #59
+Warning: Missing file #60
+60%
+Warning: Missing file #61
+Warning: Missing file #62
+Warning: Missing file #63
+Warning: Missing file #64
+Warning: Missing file #65
+65%
+Warning: Missing file #66
+Warning: Missing file #67
+Warning: Missing file #68
+Warning: Missing file #69
+Warning: Missing file #70
+70%
+Warning: Missing file #71
+Warning: Missing file #72
+Warning: Missing file #73
+Warning: Missing file #74
+Warning: Missing file #75
+75%
+Warning: Missing file #76
+Warning: Missing file #77
+Warning: Missing file #78
+Warning: Missing file #79
+Warning: Missing file #80
+80%
+Warning: Missing file #81
+Warning: Missing file #82
+Warning: Missing file #83
+Warning: Missing file #84
+Warning: Missing file #85
+85%
+Warning: Missing file #86
+Warning: Missing file #87
+Warning: Missing file #88
+Warning: Missing file #89
+Warning: Missing file #90
+90%
+Warning: Missing file #91
+Warning: Missing file #92
+Warning: Missing file #93
+Warning: Missing file #94
+Warning: Missing file #95
+95%
+Warning: Missing file #96
+Warning: Missing file #97
+Warning: Missing file #98
+Warning: Missing file #99
+Warning: Missing file #100
+100%
+Total number of events: 0
+0.32	-nan	-nan	nan	nan
+0.56	-nan	-nan	nan	nan
+0.8	-nan	-nan	nan	nan
+1.04	-nan	-nan	nan	nan
+1.28	-nan	-nan	nan	nan
+1.52	-nan	-nan	nan	nan
+1.76	-nan	-nan	nan	nan
+2	-nan	-nan	nan	nan
+2.24	-nan	-nan	nan	nan
+2.48	-nan	-nan	nan	nan
+2.72	-nan	-nan	nan	nan
+2.96	-nan	-nan	nan	nan
+3.2	-nan	-nan	nan	nan
+3.44	-nan	-nan	nan	nan
+3.68	-nan	-nan	nan	nan
+3.92	-nan	-nan	nan	nan
+4.16	-nan	-nan	nan	nan
+4.4	-nan	-nan	nan	nan
+4.64	-nan	-nan	nan	nan
+4.88	-nan	-nan	nan	nan
+Results have been written to:  vn_cumulants_pT_pair_2212_lhc2760-50-60-norm114-3000-0.14.dat
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.14/04                http://root.cern.ch |
+  |                               (c) 1995-2018, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tags/v6-14-04@v6-14-04, Aug 23 2018, 17:00:44         |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing vn_C_pT_pair.c("/storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm114-3000-0.15/",100,200,2,2212,"lhc2760-50-60-norm114-3000-0.15")...
+
+
+Calculating v_2{2} (pT)...2212
+Processing events from directory: /storage/brno12-cerit/home/poledto1/hydro/hybrid/sampler.out/lhc2760-50-60-norm114-3000-0.15/
+Warning: Missing file #1
+Warning: Missing file #2
+Warning: Missing file #3
+Warning: Missing file #4
+Warning: Missing file #5
+5%
+Warning: Missing file #6
+Warning: Missing file #7
+Warning: Missing file #8
+Warning: Missing file #9
+Warning: Missing file #10
+10%
+Warning: Missing file #11
+Warning: Missing file #12
+Warning: Missing file #13
+Warning: Missing file #14
+Warning: Missing file #15
+15%
+Warning: Missing file #16
+Warning: Missing file #17
+Warning: Missing file #18
+Warning: Missing file #19
+Warning: Missing file #20
+20%
+Warning: Missing file #21
+Warning: Missing file #22
+Warning: Missing file #23
+Warning: Missing file #24
+Warning: Missing file #25
+25%
+Warning: Missing file #26
+Warning: Missing file #27
+Warning: Missing file #28
+Warning: Missing file #29
+Warning: Missing file #30
+30%
+Warning: Missing file #31
+Warning: Missing file #32
+Warning: Missing file #33
+Warning: Missing file #34
+Warning: Missing file #35
+35%
+Warning: Missing file #36
+Warning: Missing file #37
+Warning: Missing file #38
+Warning: Missing file #39
+Warning: Missing file #40
+40%
+Warning: Missing file #41
+Warning: Missing file #42
+Warning: Missing file #43
+Warning: Missing file #44
+Warning: Missing file #45
+45%
+Warning: Missing file #46
+Warning: Missing file #47
+Warning: Missing file #48
+Warning: Missing file #49
+Warning: Missing file #50
+50%
+Warning: Missing file #51
+Warning: Missing file #52
+Warning: Missing file #53
+Warning: Missing file #54
+Warning: Missing file #55
+55%
+Warning: Missing file #56
+Warning: Missing file #57
+Warning: Missing file #58
+Warning: Missing file #59
+Warning: Missing file #60
+60%
+Warning: Missing file #61
+Warning: Missing file #62
+Warning: Missing file #63
+Warning: Missing file #64
+Warning: Missing file #65
+65%
+Warning: Missing file #66
+Warning: Missing file #67
+Warning: Missing file #68
+Warning: Missing file #69
+Warning: Missing file #70
+70%
+Warning: Missing file #71
+Warning: Missing file #72
+Warning: Missing file #73
+Warning: Missing file #74
+Warning: Missing file #75
+75%
+Warning: Missing file #76
+Warning: Missing file #77
+Warning: Missing file #78
+Warning: Missing file #79
+Warning: Missing file #80
+80%
+Warning: Missing file #81
+Warning: Missing file #82
+Warning: Missing file #83
+Warning: Missing file #84
+Warning: Missing file #85
+85%
+Warning: Missing file #86
+Warning: Missing file #87
+Warning: Missing file #88
+Warning: Missing file #89
+Warning: Missing file #90
+90%
+Warning: Missing file #91
+Warning: Missing file #92
+Warning: Missing file #93
+Warning: Missing file #94
+Warning: Missing file #95
+95%
+Warning: Missing file #96
+Warning: Missing file #97
+Warning: Missing file #98
+Warning: Missing file #99
+Warning: Missing file #100
+100%
+Total number of events: 0
+0.32	-nan	-nan	nan	nan
+0.56	-nan	-nan	nan	nan
+0.8	-nan	-nan	nan	nan
+1.04	-nan	-nan	nan	nan
+1.28	-nan	-nan	nan	nan
+1.52	-nan	-nan	nan	nan
+1.76	-nan	-nan	nan	nan
+2	-nan	-nan	nan	nan
+2.24	-nan	-nan	nan	nan
+2.48	-nan	-nan	nan	nan
+2.72	-nan	-nan	nan	nan
+2.96	-nan	-nan	nan	nan
+3.2	-nan	-nan	nan	nan
+3.44	-nan	-nan	nan	nan
+3.68	-nan	-nan	nan	nan
+3.92	-nan	-nan	nan	nan
+4.16	-nan	-nan	nan	nan
+4.4	-nan	-nan	nan	nan
+4.64	-nan	-nan	nan	nan
+4.88	-nan	-nan	nan	nan
+Results have been written to:  vn_cumulants_pT_pair_2212_lhc2760-50-60-norm114-3000-0.15.dat
